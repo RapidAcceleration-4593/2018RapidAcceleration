@@ -1,0 +1,26 @@
+#self.loops = 0
+        #self.FRM.setFeedbackDevice(ctre.wpi_talonsrx.WPI_TalonSRX.FeedbackDevice(CtreMagEncoder_Absolute))
+        #self.RRM.setFeedbackDevice(ctre.wpi_talonsrx.WPI_TalonSRX.FeedbackDevice(CtreMagEncoder_Absolute))
+        #self.RLM.setFeedbackDevice(ctre.wpi_talonsrx.WPI_TalonSRX.FeedbackDevice(CtreMagEncoder_Absolute))
+
+
+'''self.RRM.set(-0.3)
+            self.RLM.set(-0.3)
+            self.FRM.set(0.3)
+            self.FLM.set(0.3)'''
+
+
+'''self.RRM.set(-0.3)
+            self.RLM.set(-0.3)
+            self.FRM.set(0.3)
+            self.FLM.set(0.3)'
+
+
+'''self.RRM.set(-0.3)
+            self.RLM.set(-0.3)
+            self.FRM.set(0.3)
+            self.FLM.set(0.3)'''
+
+
+#print(str(self.RRM.getSelectedSensorPosition(0))) #this is a good boi
+            #print(str(self.FLM.getSelectedSensorPosition(0))) #this is a good boi
